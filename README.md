@@ -7,6 +7,8 @@ Beginning as Software Engineer and now learning become A Cloud Infrastructure En
  * 🗓 Some note and cheetsheet shared in [My Gist](https://gist.github.com/AasSuhendar)
  * 🚴‍♂️ Newbie in bicycle
  * 💌 How to reach me: email me, or you can Tweet me or DM me on Instagram [@aassuhendar](https://www.instagram.com/aassuhendar/)
+
+[![Aas's GitHub stats](https://github-readme-stats.vercel.app/api?username=AasSuhendar)](https://github.com/AasSuhendar/github-readme-stats)
  
 Keep Share and Learning 🤓
  
