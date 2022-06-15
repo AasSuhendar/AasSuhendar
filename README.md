@@ -9,6 +9,8 @@ Beginning as Software Engineer and now learning become A Cloud Infrastructure En
  * 💌 How to reach me: email me, or you can Tweet me or DM me on Instagram [@aassuhendar](https://www.instagram.com/aassuhendar/)
 
 [![Aas's GitHub stats](https://github-readme-stats.vercel.app/api?username=AasSuhendar&show_icons=true)](https://github.com/AasSuhendar/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AasSuhendar)](https://github.com/anuraghazra/github-readme-stats)
  
 Keep Share and Learning 🤓
  
